@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @SylviaHJY. My friends also call me Leona.
-- 👀 I’m interested in snowboarding. 
-- 🌱 I currently majore in Computer Science.
-- I am looking for an internship/full time job.
-
 <!---
 SylviaHJY/SylviaHJY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Leona</h1>
 <h3 align="center">A passionate SDE/full-stack developer on her way from Great Seattle</h3>
+- 👀 I’m interested in snowboarding. 
+- 🌱 I currently majore in Computer Software Engineering.
+- I am looking for an internship/full time job.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviahjy&label=Profile%20views&color=0e75b6&style=flat" alt="sylviahjy" /> </p>
 
