@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviahjy&label=Profile%20views&color=0e75b6&style=flat" alt="sylviahjy" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/leona-huang-7547b91a1/"></a></h3>
 <p align="left">
 </p>
 
