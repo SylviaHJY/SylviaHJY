@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I'm an avid snowboarder in my free time.
 - I am a software engineer and research assistant at the Interactive Computing Lab, where I create and apply cutting-edge technologies to solve real-world problems. My current project is a full-stack web application that integrates React.js, TypeScript, Node.js, Python3, and machine learning, with a focus on Alzheimer's disease-related searches. I lead the development team and achieved a 98% user satisfaction rate through user experience and accessibility enhancements.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviahjy&label=Profile%20views&color=0e75b6&style=flat" alt="sylviahjy" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
